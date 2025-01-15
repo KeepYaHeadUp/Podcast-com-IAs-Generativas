@@ -20,7 +20,7 @@ Neste episódio piloto, trouxe uma conversa irreverente e instigante sobre como 
   - Estruturação de um diálogo envolvente que aborda os principais temas.  
   - Geração do script completo do episódio.  
 
-- **[all_talk]**(https://github.com/erew123/alltalk_tts)  
+- [**all_talk**](https://github.com/erew123/alltalk_tts)  
   - Utilizado para sintetizar as vozes dos personagens, trazendo vida ao podcast por meio da tecnologia de voz.
 
 ---
