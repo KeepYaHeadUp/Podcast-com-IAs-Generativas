@@ -7,7 +7,7 @@
 
 ## 📒 Descrição
 
-Neste episódio piloto, trazemos uma conversa irreverente e instigante sobre como nos conscientizar em meio ao avanço tecnológico. Exploramos ideias sobre o impacto da tecnologia em nosso cotidiano e como ela pode transformar nossas perspectivas e escolhas.
+Neste episódio piloto, trouxe uma conversa irreverente e instigante sobre como nos conscientizar em meio ao avanço tecnológico. Exploramos ideias sobre o impacto da tecnologia em nosso cotidiano e como ela pode transformar nossas perspectivas e escolhas.
 
 ---
 
@@ -27,6 +27,6 @@ Neste episódio piloto, trazemos uma conversa irreverente e instigante sobre com
 
 ## 🚀 Resultados
 
-Criamos um podcast educativo e extrovertido, capaz de informar e entreter, promovendo reflexões sobre o mundo conectado em que vivemos.
+Criei um podcast educativo e extrovertido, capaz de informar e entreter, promovendo reflexões sobre o mundo conectado em que vivemos.
 
 
